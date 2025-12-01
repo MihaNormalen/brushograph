@@ -1,0 +1,1 @@
+The Brushograph is an open-source, low-cost DIY art painting machine (a plotter) designed for workshops, creatives, and G-code enthusiasts. Unlike typical "pen-plotters," this machine is engineered to utilize a real brush and liquid media, giving it the capacity to pick up colors, wipe the brush, and apply variable-width brushstrokes.
